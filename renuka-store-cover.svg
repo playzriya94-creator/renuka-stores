@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#dff4ff"/><stop offset="1" stop-color="#fff7dc"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#sky)"/><rect y="500" width="1200" height="200" fill="#d8d2c7"/>
+<rect x="180" y="190" width="840" height="340" rx="8" fill="#f7f1e6" stroke="#284d37" stroke-width="8"/>
+<rect x="160" y="135" width="880" height="100" rx="8" fill="#146b3a"/>
+<text x="600" y="195" text-anchor="middle" font-family="Arial" font-size="48" font-weight="700" fill="white">M/S RENUKA STORES</text>
+<text x="600" y="225" text-anchor="middle" font-family="Arial" font-size="20" fill="#f6c343">GANESH CHOWK • PATHRAHI</text>
+<rect x="225" y="265" width="280" height="235" fill="#d7f0ff" stroke="#284d37" stroke-width="7"/>
+<rect x="695" y="265" width="280" height="235" fill="#d7f0ff" stroke="#284d37" stroke-width="7"/>
+<rect x="520" y="265" width="160" height="265" fill="#8b5a35" stroke="#284d37" stroke-width="7"/>
+<circle cx="655" cy="400" r="8" fill="#f6c343"/>
+<g font-family="Arial" font-size="20" font-weight="700" fill="#146b3a">
+<rect x="250" y="300" width="230" height="55" rx="8" fill="white"/><text x="365" y="335" text-anchor="middle">GROCERY</text>
+<rect x="250" y="375" width="230" height="55" rx="8" fill="white"/><text x="365" y="410" text-anchor="middle">DAILY ESSENTIALS</text>
+<rect x="720" y="300" width="230" height="55" rx="8" fill="white"/><text x="835" y="335" text-anchor="middle">SNACKS</text>
+<rect x="720" y="375" width="230" height="55" rx="8" fill="white"/><text x="835" y="410" text-anchor="middle">PACKED FOOD</text></g>
+<text x="600" y="590" text-anchor="middle" font-family="Arial" font-size="25" fill="#284d37">A friendly local store at Ganesh Chowk, Pathrahi</text>
+</svg>
